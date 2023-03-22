@@ -2,7 +2,7 @@
 <h1></h1>
 <p align="left"><img src=https://visitor-badge.glitch.me/badge?page_id=escalona-mj.escalona-mj)/> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> </p>
 
-Hi, the name's <b>MJ Escalona</b>. I'm an early :bird: so keep it simple, alright? I'm a passionate, self-taught UI designer, (and currently taking lessons) programmer. My passion lies in putting all the effort in human interaction experience. I am currently studying about UI interactions. I take absolute care in the experience, structure, and the code quality of the things I make.
+Hi, the name's <b>MJ Escalona</b>. I'm an early :bird: so go easy on me, alright? I'm a passionate, self-taught UI designer, (and currently taking lessons) programmer. My passion lies in putting all the effort in human interaction experience. I am currently studying about UI interactions. I take absolute care in the experience, structure, and the code quality of the things I make.
 
 :trollface:
 
