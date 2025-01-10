@@ -2,9 +2,7 @@
 <h1></h1>
 <p align="left"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> </p>
 
-Hi, the name's <b>MJ Escalona</b>. I'm an early :bird: so go easy on me. I'm a passionate, self-taught UI designer, (and currently taking lessons) programmer. My passion lies in putting all the effort in human interaction experience. I am currently studying about UI interactions. I take absolute care in the experience, structure, and the code quality of the things I make.
-
-:trollface:
+Hi, the name's <b>MJ Escalona</b>. I'm an early :bird: so go easy on me. I'm a passionate, self-taught UI designer, programmer. My passion lies in putting all the effort in human interaction experience. I am currently studying about UI interactions. I take absolute care in the experience, structure, and the code quality of the things I make.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align ="left"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android">
